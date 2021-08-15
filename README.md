@@ -1,24 +1,22 @@
-<p align="center"><img src="https://i.imgur.com/NZfsD1p.png"></p>
+### Note
+This project is community driven and your help will be much appreciate.
+Please Always enter the comments and functionality detail so it can easily be use in future by other developers.
+### Description:
 
+The project solely design to bring svg as well as raster  designing and animation in electron to eliminate the need of adobe illustrator and adobe animation app. Also looking for developing 2d format for fbx as 2dfbx, 360svg format. so developer can easily share 2d spirits. I am also looking some one who develop the tool for creating 360 degree svg image for spirits.
+
+
+#### Main Purpose of this app is to develop both raster and svg drawing
+#### Looking for animation support for both formats as well as plugins support similar to vscode
+#### UI and UX Design are much appreciated
+#### Creating formats such as 2dfbx, 2dobj and 360svg.
+#### App Develop in nextjs with support of electron know as nextron
 ## Usage
-
-### Create an App
-
-```
-# with npx
-$ npx create-nextron-app my-app --example with-typescript
-
-# with yarn
-$ yarn create nextron-app my-app --example with-typescript
-
-# with pnpx
-$ pnpx create-nextron-app my-app --example with-typescript
-```
 
 ### Install Dependencies
 
 ```
-$ cd my-app
+$ cd penima
 
 # using yarn or npm
 $ yarn (or `npm install`)
